@@ -13,7 +13,7 @@
 			<p dir="ltr" style="text-align:center"><strong>Candidato(a): jonathan de almeida&nbsp;&nbsp;</strong></p>
 			</td>
 			<td>
-			<p dir="ltr" style="text-align:center"><strong>Data: 07/01/2023</strong></p>
+			<p dir="ltr" style="text-align:center"><strong>Data: 09/01/2023</strong></p>
 			</td>
 		</tr>
 		<tr>
